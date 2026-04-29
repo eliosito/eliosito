@@ -4,7 +4,7 @@ Estudio en el colegio Olga b de Arko de Ushuaia,Tierra del Fuego
 
 
 ## 🛠 Skills
-HTML, CSS, Java Script y PHP
+Java Script y PHP
 
 
 ## 👤 Sobre mi
